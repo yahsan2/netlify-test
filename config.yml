@@ -1,5 +1,6 @@
 backend:
-  name: yahsan2/netlify-test
+  name: github
+  repo: yahsan2/netlify-test
 
 media_folder: media_folder
 
@@ -7,6 +8,14 @@ collections:
   - name: post
     label: Post
     folder: posts
+    create: true
+    fields:
+      - {name: title, label: Title}
+      - {name: body, label: Body, widget: markdown}
+
+  - name: article
+    label: Article
+    folder: articles
     create: true
     fields:
       - {name: title, label: Title}
