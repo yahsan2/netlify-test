@@ -4,6 +4,8 @@ backend:
 
 base_url: romantic-kepler-7dfe0a
 
+site_domain: https://romantic-kepler-7dfe0a.netlify.com
+
 media_folder: media_folder
 
 collections:
