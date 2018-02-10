@@ -2,7 +2,7 @@ backend:
   name: github
   repo: yahsan2/netlify-test
 
-base_url: https://romantic-kepler-7dfe0a.netlify.com
+base_url: romantic-kepler-7dfe0a
 
 media_folder: media_folder
 
