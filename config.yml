@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: yahsan2/netlify-test
+  base_url: https://romantic-kepler-7dfe0a.netlify.com
 
 media_folder: media_folder
 
